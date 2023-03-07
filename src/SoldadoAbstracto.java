@@ -1,2 +1,3 @@
-public class SoldadoAbstracto {
+public abstract class SoldadoAbstracto {
+    int identificador;
 }

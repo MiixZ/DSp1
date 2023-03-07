@@ -1,0 +1,2 @@
+public class MisionAbstracta {
+}

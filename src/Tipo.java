@@ -1,0 +1,1 @@
+public enum Tipo{ TIERRA , AIRE } ;

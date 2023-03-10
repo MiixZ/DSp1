@@ -1,5 +1,6 @@
 public class MisionAire extends MisionAbstracta {
     public MisionAire() {
-        this.numMision = 1;
+        prob_no_superar = 0.3 ; // probabilidad de que no se supere la mision
+        tipo = Tipo.AIRE ;   
     }
 }
